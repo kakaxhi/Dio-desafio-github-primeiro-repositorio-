@@ -1,6 +1,6 @@
 # O que o comand git clone faz? 
 
- ### Faz um clone do repositório remoto em seu repositório local.
+### Faz um clone do repositório remoto em seu repositório local.
 
 
 
